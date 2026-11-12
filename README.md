@@ -14,4 +14,4 @@ I run Stallions Riding Club (SRC), a motorcycle adventure group, and I travel of
 
 ## Connect with me
 
-Instagram: @stallionsridingclub
+Linkedin: https://www.linkedin.com/in/ahladravu/
