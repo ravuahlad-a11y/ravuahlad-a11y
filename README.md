@@ -2,7 +2,7 @@
 
 <p align="center">
 <img src="working.svg" width="100%" alt="Person working on a laptop" />
-</p>p>
+</p>
 
 ## About me
 
