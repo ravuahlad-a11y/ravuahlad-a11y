@@ -1,5 +1,7 @@
 # Hi there 👋 I'm Ahlad
 
+![Person working on a laptop](working.svg)
+
 ## About me
 
 Digital accessibility specialist working remotely. I audit websites and apps against WCAG and prepare VPAT and ACR documentation so digital products work for everyone.
