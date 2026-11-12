@@ -2,7 +2,7 @@
 
 <p align="center">
 <img src="working.svg" width="100%" alt="Person working on a laptop" />
-</p>
+</p>p>
 
 ## About me
 
@@ -14,4 +14,6 @@ I run Stallions Riding Club (SRC), a motorcycle adventure group, and I travel of
 
 ## Connect with me
 
-Linkedin: https://www.linkedin.com/in/ahladravu/
+Instagram: @stallionsridingclub
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahladravu/)
