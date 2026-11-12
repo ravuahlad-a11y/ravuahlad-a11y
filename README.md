@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Ahlad
 
-<p align="center"><img src="working.svg" width="100%" alt="Person working on a laptop" /></p>
+<p align="center"><img src="working.svg" width="100%" alt="Cartoon of a man in a teal jacket sitting at a desk with his legs crossed under it, typing on a silver laptop. Beside him are two stacked books, a white coffee mug, and a red motorcycle helmet, and he sits on a grey chair." /></p>
 
 ## About me
 
