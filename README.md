@@ -21,3 +21,5 @@ Attended GAAD (Global Accessibility Awareness Day) and other accessibility and A
 ## Connect with me
 
 <a href="https://www.linkedin.com/in/ahladravu/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+Second GitHub account: [ravusaiahlad3240](https://github.com/ravusaiahlad3240)
